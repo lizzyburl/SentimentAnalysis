@@ -5,7 +5,7 @@ For a full read-up, see SentimentAnalysis.docx.
 Order to Use
 preSVM.py
 InitialDict2Faster.py
-SentimentAnalysis.txt
+SentimentAnalysis.py
 
 Keep in mind that the paths will not be the same as on your machine (may need to edit).
 Also, you need to have libsvm-3.18 installed to use.
